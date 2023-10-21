@@ -1,0 +1,25 @@
+package com.dio.iphone;
+
+public class Main {
+
+  public static void main(String[] args) {
+    Iphone iphone = new Iphone();
+
+    System.out.println("Utilizando o Reprodutor Musical");
+    iphone.selecionarMusica("Envolver");
+    iphone.tocar();
+    aparelho.pausar();
+
+    System.out.println("Telefonando com o Aparelho");
+    iphone.atender();
+    iphone.iniciarCorreioVoz();
+    iphone.ligar(10098907);
+
+    System.out.println("Navegando na Internet");
+    iphone.exibirPagina();
+    iphone.atualizarPagina();
+    iphone.adicionarNovaAba();
+
+  }
+
+}
