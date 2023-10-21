@@ -1,4 +1,4 @@
-package com.dio.iphone.navegador;
+package com.dio.iphone.navegadorNaInternet;
 
 public abstract class NavegadorAbstrata implements NavegadorInterface {
 
