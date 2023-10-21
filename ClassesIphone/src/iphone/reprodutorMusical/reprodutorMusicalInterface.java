@@ -1,4 +1,4 @@
-package aparelho.reprodutormusical;
+package com.dio.iphone.reprodutormusical;
 
 public interface ReproducaoIntfc {
 
