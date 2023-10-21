@@ -10,7 +10,7 @@ public abstract class ReprodutorMusicalAbstrata implements ReprodutorMusicalInte
 
   @Override
   public void tocar() {
-    System.out.println(nome + " está tocando");
+    System.out.println(nome + " tocando");
   }
 
   @Override
