@@ -1,0 +1,5 @@
+package com.dio.iphone.aparelhotelefonico;
+
+public class aparelhoTelefonico extends aparelhoTelefonicoAbstrata {
+
+}
