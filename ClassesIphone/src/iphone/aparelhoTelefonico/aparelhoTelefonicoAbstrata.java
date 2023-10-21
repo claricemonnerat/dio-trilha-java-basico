@@ -14,6 +14,6 @@ public abstract class aparelhoTelefonicoAbstrata implements aparelhoTelefonicoIn
 
   @Override
   public void iniciarCorreioVoz() {
-    System.out.println("Iniciando correio de voz");
+    System.out.println("Correio de voz iniciado");
   }
 }
