@@ -1,6 +1,6 @@
 package com.dio.iphone.reprodutormusical;
 
-public interface ReproducaoIntfc {
+public interface ReprodutorMusicalInterface {
 
   void tocar();
 
