@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Repositorio para exemplos do curso de Java Básico pela DIO
+Repositorio para exemplos e exercícios do bootcamp Santander 2023 - Fullstack Java pela DIO
