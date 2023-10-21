@@ -4,16 +4,16 @@ public abstract class NavegadorAbstrata implements NavegadorInterface {
 
   @Override
   public void exibirPagina() {
-    System.out.println("Exibindo a página pedida");
+    System.out.println("Página exibida");
   }
 
   @Override
   public void adicionarNovaAba() {
-    System.out.println("Adicionando uma nova aba à página");
+    System.out.println("Página adicionada");
   }
 
   @Override
   public void atualizarPagina() {
-    System.out.println("Atualizando a página");
+    System.out.println("Página atualizada");
   }
 }
